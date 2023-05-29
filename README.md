@@ -2,17 +2,17 @@
 Social Media Clone Developed In Django
 ## Getting Started
 This project is basic social media clone with features like 
-* User authentication, 
-* Image with Description Post, 
-* Post like, 
-* Post comment, 
-* User profile,
-* User follow/unfollow,
-* Post search,
-* User search,
-* Mobile Responsive,
-* Post Share,
-* Mention User with @,
+* User authentication
+* Image with Description Post
+* Post like
+* Post comment
+* User profile
+* User follow/unfollow
+* Post search
+* User search
+* Mobile Responsive
+* Post Share
+* Mention User with @
 
 Infinty scroll and much more. Python, Django, HTML, CSS, Bootstrap, JavaScript, is used in this project.
 
